@@ -1,6 +1,6 @@
 # Lets Cure.
 
-Team : <strong>SMC T-5</strong>
+Team : <strong>TA_ZERO</strong>
 
 1. Joshith Reddy Gopidi (L)<br>
 2. Madhvendra Pratap Singh<br>
