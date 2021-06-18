@@ -1,6 +1,6 @@
 # Lets Cure.
 
-Team : <strong>TA_ZERO</strong>
+Team : <strong>TA_Nautilus</strong>
 
 1. Joshith Reddy Gopidi (L)<br>
 2. Madhvendra Pratap Singh<br>
